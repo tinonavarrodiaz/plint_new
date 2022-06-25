@@ -45,5 +45,5 @@ export default defineConfig({
     qrcode(),
     removeConsole(),
   ],
-  base: '/plint-new/'
+  base: '/plint_new/'
 })
